@@ -6,6 +6,7 @@ chicken
 biryani
 Chicken fry
 
-
+Beans 
+Pizza
 
 thank you :)
